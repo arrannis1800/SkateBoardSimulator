@@ -4,7 +4,7 @@
 
 ---
 
-Before you begin**, e**nsure that the prototype is designed in 3D. Both the executable and Unreal Engine project should be available on GitHub for review.
+Before you begin, ensure that the prototype is designed in 3D. Both the executable and Unreal Engine project should be available on GitHub for review.
 
 - Create a functional Skateboarding Simulator Game, it should feature full control of the character skateboarding, as well as the speed-up, slow-down and jump functions, it should allow us to move around a small designed park, or street side.
 - Required features:
